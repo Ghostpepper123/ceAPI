@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|c:\\users\\ce266551\\source\\repos\\ceapi\\ceapi\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|solutionrelative:ceapi\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|c:\\users\\ce266551\\source\\repos\\ceapi\\ceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|solutionrelative:ceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|c:\\users\\ce266551\\source\\repos\\ceapi\\ceapi\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|solutionrelative:ceapi\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|c:\\users\\ce266551\\source\\repos\\ceapi\\ceapi\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|solutionrelative:ceapi\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|c:\\users\\ce266551\\source\\repos\\ceapi\\ceapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|solutionrelative:ceapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|c:\\users\\ce266551\\source\\repos\\ceapi\\ceapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8BDED7-283E-4C5F-9501-4B8FD3842C3B}|ceAPI\\ceAPI.csproj|solutionrelative:ceapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB34239-C0E9-4DF4-9908-FFA51CF639C4}|DataModel\\DataModel.csproj|c:\\users\\ce266551\\source\\repos\\ceapi\\datamodel\\worldcitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB34239-C0E9-4DF4-9908-FFA51CF639C4}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\worldcitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\DTO\\CityDTO.cs",
+              "RelativeDocumentMoniker": "ceAPI\\DTO\\CityDTO.cs",
+              "ToolTip": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\DTO\\CityDTO.cs",
+              "RelativeToolTip": "ceAPI\\DTO\\CityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:49:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorldCitiesCsv.cs",
+              "DocumentMoniker": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Data\\WorldCitiesCsv.cs",
+              "RelativeDocumentMoniker": "ceAPI\\Data\\WorldCitiesCsv.cs",
+              "ToolTip": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Data\\WorldCitiesCsv.cs",
+              "RelativeToolTip": "ceAPI\\Data\\WorldCitiesCsv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:49:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ceAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ceAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:49:25.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryPopulation.cs",
+              "DocumentMoniker": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\DTO\\CountryPopulation.cs",
+              "RelativeDocumentMoniker": "ceAPI\\DTO\\CountryPopulation.cs",
+              "ToolTip": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\DTO\\CountryPopulation.cs",
+              "RelativeToolTip": "ceAPI\\DTO\\CountryPopulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:13:09.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Program.cs",
+              "RelativeToolTip": "ceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:15:33.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorldCitiesContext.cs",
+              "DocumentMoniker": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\DataModel\\WorldCitiesContext.cs",
+              "RelativeDocumentMoniker": "DataModel\\WorldCitiesContext.cs",
+              "ToolTip": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\DataModel\\WorldCitiesContext.cs",
+              "RelativeToolTip": "DataModel\\WorldCitiesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:15:14.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "ceAPI\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\ce266551\\source\\repos\\ceAPI\\ceAPI\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "ceAPI\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:52:45.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
